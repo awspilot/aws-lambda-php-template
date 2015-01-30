@@ -35,7 +35,7 @@ to stay within the 25MB Lambda zip file limit
 
 
 
-Next:
-php.ini
-ext/ folder to load needed extensions
-PhantomJS
+# Next:
+*php.ini
+*ext/ folder to load needed extensions
+*PhantomJS
