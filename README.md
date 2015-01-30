@@ -11,6 +11,30 @@ It's compiled with GD and phar support
 It's compile with fewer extensions 
 to stay within the 25MB Lambda zip file limit
 
+
+
+	Logs
+	----
+	START RequestId: 5cf9d709-a81e-11e4-b908-0de1839db0c4
+	2015-01-30T01:21:50.748Z	5cf9d709-a81e-11e4-b908-0de1839db0c4	array(3) {
+		["key1"]=>
+		string(6) "value1"
+		["key2"]=>
+		string(6) "value2"
+		["key3"]=>
+		string(6) "value3"
+	}
+	2015-01-30T01:21:50.846Z	5cf9d709-a81e-11e4-b908-0de1839db0c4	child process exited with code 0
+	END RequestId: 5cf9d709-a81e-11e4-b908-0de1839db0c4
+	REPORT RequestId: 5cf9d709-a81e-11e4-b908-0de1839db0c4	Duration: 356.10 ms	Billed Duration: 400 ms 	Memory Size: 128 MB	Max Memory Used: 12 MB	
+	
+	Message
+	-------
+	undefined
+
+
+
+
 Next:
 php.ini
 ext/ folder to load needed extensions
