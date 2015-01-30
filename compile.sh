@@ -15,6 +15,7 @@ cd php-5.6.5/
 	--enable-shared=no	\
 	--enable-static=yes	\
 	--enable-phar	\
+	--enable-json	\
 	\
 	--with-openssl	\
 	--with-curl	\
