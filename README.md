@@ -8,8 +8,7 @@ It is statically linked to avoid missing libraries
 
 It's compiled with GD and phar support
 
-It's compile with fewer extensions 
-to stay within the 25MB Lambda zip file limit
+Less extensions included to stay within the 25MB Lambda zip file limit
 
 
 
