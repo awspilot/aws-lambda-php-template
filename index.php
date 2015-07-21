@@ -5,9 +5,8 @@
     }
 
     $event = json_decode($body,true);
-    
-    
-    
     var_dump($event);
+
+    print_r(get_loaded_extensions());
 
 ?>
