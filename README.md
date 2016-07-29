@@ -1,8 +1,8 @@
 # aws-lambda-php-template
-Precompiled PHP 5.6 for Amazon Lambda
+Precompiled PHP 5.6 for AWS Lambda
 
 This repository contains the binary version of PHP 5.6
-and the necesary NodeJS code to run it on Amazon Lambda
+and the necesary NodeJS code to run it on AWS Lambda
 
 It is statically linked to avoid missing libraries
 
